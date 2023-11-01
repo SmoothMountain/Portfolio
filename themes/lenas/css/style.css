@@ -59,7 +59,7 @@ body {
 }
 
 .title * {
-    color: #111;
+    color: #8d6f6f;
 }
 
 .title p {
@@ -69,10 +69,11 @@ body {
 .nav a {
     font-size: 1.3rem;
     text-decoration: none;
+    color: #8d6f6f;
 }
 
 .nav a:hover {
-    border-bottom: 4px solid #e450a4;
+    border-bottom: 4px solid #EDBBBA;
 }
 /* main */
 
@@ -95,14 +96,14 @@ p {
 .footer {
     display: flex;
     justify-content: space-between;
-    border-top: 2px solid #e450a4;
-    background-color: rgb(240, 192, 219);
-    color: #5e0f3c;
+    border-top: 2px solid #8d6f6f;
+    background-color: #EDBBBA;
+    color: #fff;
     padding: 4rem 6rem;
 }
 
 .footer a {
-    color: #222;
+    color: #fff;
 }
 
 .footer .social {

@@ -1,8 +1,8 @@
 ---
-Logo: image/leaf_256x256.png
-Tagline: My portfolio.
+Logo: image/designv3logo.png
+Tagline: Lenas portfolio.
 Social:
-    - title: Link till sidans github repo.
-      url: https://github.com/dbwebb-se/design-v3
+    - title: Link till min github.
+      url: https://github.com/SmoothMountain
       icon: github
 ---
